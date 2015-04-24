@@ -1,6 +1,6 @@
-___Mind your steps, this is a quick ( but effective ) hack.___
 
 # rbenchv
+_Mind your steps, this is a quick ( but effective ) hack._
 
 Simple, automated benchmark to test several ruby versions.
 Just configure the included 'run_rbenchv.sh' file to run all tests,
